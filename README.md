@@ -40,7 +40,7 @@ Similar to other independent IDS systems, this IDS consists of four main modules
 * [Sprint Report 3](https://github.com/mmilander/IDS/blob/main/CPT_S%20322%20Class%20Assignments/Sprint_3/Sprint_3_report.md)
 * [Final Report](https://github.com/mmilander/IDS/blob/main/CPT_S%20322%20Class%20Assignments/FinalReport.pdf)
 * [Sources](https://github.com/mmilander/IDS/blob/main/Sources.md)
-* [Licence](https://github.com/mmilander/IDS/blob/main/LICENSE.txt)
+* [License](https://github.com/mmilander/IDS/blob/main/LICENSE.txt)
 
 ## Screenshots of Final Prototype
 ### Qt Interface
