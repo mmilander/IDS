@@ -1,4 +1,4 @@
-# Sprint x Report (1/17/26 - 2/29/2026)
+# Sprint 1 Report (1/17/26 - 2/29/2026)
 # Demo video link: https://www.youtube.com/watch?v=H1VXHxBZ0PI
 
 ## What's New (User Facing)
